@@ -3,7 +3,6 @@
 ## Lindsey Bowen Homework 6 Weather Dashboard ## 
 * Link
 * Link 
-* Demo 
 
 ### Summary ###
 
@@ -20,7 +19,7 @@
 
 ### Psuedo Code ### 
 * Creat a search input 
-* API calld for Current Weather 
+* API call for Current Weather 
 * Local stoarge will save user history 
 
 ## API Reference ##
