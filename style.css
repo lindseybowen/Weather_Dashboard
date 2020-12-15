@@ -2,3 +2,8 @@ h1 {
     text-align: center;
 }
 
+.jumbotron {
+    background-image: url(clouds2.jpeg);
+    background-position: center;
+    background-size: cover;
+}
