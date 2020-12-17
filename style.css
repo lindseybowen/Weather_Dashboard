@@ -7,3 +7,8 @@ h1 {
     background-position: center;
     background-size: cover;
 }
+
+.container {
+  float: left;
+
+}
