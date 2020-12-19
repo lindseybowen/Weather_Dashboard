@@ -9,3 +9,23 @@ h1 {
     text-align: center;
     text-emphasis-color: black;
 }
+
+li {
+    border-bottom: 1px solid lightgray;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.fiveDayColor {
+    padding: 20px;
+    background-color: #1E90FF;
+    color: white;
+    float: left;
+    margin: 10px;
+    border: 1px solid lightgray; 
+}
+
+
+
+
+
