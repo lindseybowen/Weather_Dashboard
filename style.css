@@ -24,6 +24,14 @@ li {
     margin: 10px;
     border: 1px solid lightgray; 
 }
+ul {
+    list-style: none;
+
+}
+.card-title {
+    font-size: 20px;
+}
+
 
 
 
