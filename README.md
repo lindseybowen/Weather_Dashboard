@@ -1,9 +1,6 @@
 # Weather_Dashboard # 
 
 ## Lindsey Bowen Homework 6 Weather Dashboard ## 
-* Link
-* Link 
-
 ### Summary ###
 This weather application will show you the current weather as well as the five day forcast. 
 
