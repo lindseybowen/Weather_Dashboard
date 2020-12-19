@@ -1,7 +1,7 @@
 # Weather_Dashboard # 
 
 ## Lindsey Bowen Homework 6 Weather Dashboard ## 
-* Link
+* https://github.com/lindseybowen/Weather_Dashboard
 * Link 
 
 ### Summary ###
