@@ -1,9 +1,6 @@
 # Weather_Dashboard # 
 
 ## Lindsey Bowen Homework 6 Weather Dashboard ## 
-* https://github.com/lindseybowen/Weather_Dashboard
-* https://lindseybowen.github.io/Weather_Dashboard/
-
 ### Summary ###
 This weather application will show you the current weather as well as the five day forcast. 
 
