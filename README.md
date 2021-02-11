@@ -21,6 +21,11 @@ This weather application will show you the current weather as well as the five d
 * API call for Current Weather 
 * Local stoarge will save user history 
 
+### Screen Shots ###
+![](Images/Screenshot.png)
+![](Images/Screenshot2.png)
+![](Images/Screenshot3.png)
+
 ## API Reference ##
 api.openweathermap.org/data/2.5/weather?q=Manhattan&appid= b5ddb13a172a5d447732e32b8e1df878
 
